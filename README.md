@@ -3,7 +3,6 @@ Esse projeto foi criado para fins de conclucão de curso (TCC), eu tenho autoriz
 
 Abaixo estão meus direitos sobre o projeto e os creditos aos criadores, grato.
 
---x--
 
 ## Hello, here is the information about the project.
 This project was created for course completion purposes (TCC), I am authorized by his license, to use as I see fit for me. I used it as a basis for the TCC, and I'll start making changes to it to see how much my web language has evolved.
