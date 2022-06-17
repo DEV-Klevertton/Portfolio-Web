@@ -1,11 +1,11 @@
-##Olã, aqui estão as informações sobre o projeto.
+## Olã, aqui estão as informações sobre o projeto.
 Esse projeto foi criado para fins de conclucão de curso (TCC), eu tenho autorização perante a licença dele, de usar como eu achar melhor para mim. usei ele como base para fazer o TCC, e comecarei a fazer modificações nele para ver o quanto minha linguarem web evoluiu.
 
 Abaixo estão meus direitos sobre o projeto e os creditos aos criadores, grato.
 
 --x--
 
-##Hello, here is the information about the project.
+## Hello, here is the information about the project.
 This project was created for course completion purposes (TCC), I am authorized by his license, to use as I see fit for me. I used it as a basis for the TCC, and I'll start making changes to it to see how much my web language has evolved.
 
 Below are my rights to the project and credits to the creators, thanks.
